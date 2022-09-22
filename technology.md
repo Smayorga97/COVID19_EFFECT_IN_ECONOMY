@@ -5,7 +5,7 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 Module 4 - Converting CSV files to a Pandas Dataframe
 
 ## Database Storage
-TO BE DETERMINED is the database we intend to use, and we will integrate Flask to display the data. 
+TO BE DETERMINED (SQL?) is the database we intend to use, and we will integrate Flask to display the data. 
 Module 9 - Flask, SQLAlchemy
 
 ## Machine Learning
