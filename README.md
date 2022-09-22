@@ -1,8 +1,8 @@
 # Predicting 2022 Fantasy Football Picks by Role Using Machine Learning
-by Albert Yee, Krzysztof Grabka, Santiago Mayorga, Sheela Tookhy, Soumya Bhardwaj, and Sunil Khambaita
+by Albert Yee, Krzysztof Grabka, Santiago Mayorga, Sheela Tookhy, Soumya Bhardwaj, and Sunil Khambaita (TA)
 
 ## Topic 
-Reason selected topic, questions we hope to answer with the data
+It is estimated that over 40 million individuals play fantasy football (as of August 2021). Per Yahoo Finance, it is an industry expected to grow by $6.1 billion by 2026. Although the 2022 fantasy football pick season has already passed, we hope to answer if we could use machine learning to help predict the best players to pick for each role, as if simulating the draft at the start of a season.  
 
 ## Source Datasets
 Description of source data
