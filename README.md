@@ -16,6 +16,7 @@ While there are many football stats websites out there, few are free. We retriev
 
 #### Mockup 
 ![Mockup of Machine Learning Model](https://github.com/Smayorga97/NFL_FANTASY_FOOTBALL/blob/albert/machine_learning_drawing.pdf)
+<!-- link will be updated when merged -->
 
 #### Feature Selection
 
