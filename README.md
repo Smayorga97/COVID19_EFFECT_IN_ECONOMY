@@ -1,4 +1,4 @@
-# Predicting Fantasy Football Picks by Role for 2022 Using Machine Learning
+# Predicting 2022 Fantasy Football Picks by Role Using Machine Learning
 by Albert Yee, Krzysztof Grabka, Santiago Mayorga, Sheela Tookhy, Soumya Bhardwaj, and Sunil Khambaita
 
 ## Topic 
@@ -14,13 +14,13 @@ While there are many football stats websites out there, few are free. We retriev
 
 ## Using Machine Learning
 
-### Mockup 
+#### Mockup 
 ![Mockup of Machine Learning Model](https://github.com/Smayorga97/NFL_FANTASY_FOOTBALL/blob/albert/machine_learning_drawing.pdf)
 
-### Feature Selection
+#### Feature Selection
 
 
-### Models
+#### Models
 
 
 ## Results
