@@ -10,16 +10,16 @@ While there are many websites filled with football stats out there, few offer in
 The CSV files of historical data on player stats for passing, rushing, and receiving yards were downloaded and are located in the DATA_SETS directory. For our analysis, we used the standard PPR league scoring system. In the downloaded CSV files, a column was added to manually calculate that player's fantasy points for that category. The points and data from the nine separate CSV files will be joined by player name, and points from each category will be added together to determine total fantasy points per player per year.  
 
 ## Database
-TO BE DETERMINED
+SQL database using SQLAlchemy and Flask.  
 
 ## Using Machine Learning
 #### Mockup 
 ![Mockup of Machine Learning Model](https://github.com/Smayorga97/NFL_FANTASY_FOOTBALL/blob/albert/machine_learning_drawing.pdf)
 <!-- link will be updated after everything successfully merged the first time -->
- 
+The data is labelled with category names, so we will be using a supervised machine learning model. Our expected result is the predicted value of next year's points given prior year stats (continuous number) so we will perform linear regression analysis. We can use different machine learning algorithms and compare them against each other, although getting one to work would be great. 
 
 #### Feature Selection
-
+The data 
 
 #### Models
 
