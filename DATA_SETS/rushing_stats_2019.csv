@@ -1,5 +1,4 @@
-﻿,,,,,Games,Games,Rushing,Rushing,Rushing,Rushing,Rushing,Rushing,Rushing,,#NAME?,
-Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
+﻿Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,Player-additional,points
 1,Derrick Henry *,TEN,25,RB,15,15,303,1540,16,73,74,5.1,102.7,5,HenrDe00,240
 2,Ezekiel Elliott*,DAL,24,RB,16,16,301,1357,12,78,33,4.5,84.8,3,ElliEz00,201.7
 3,Nick Chubb*,CLE,24,RB,16,16,298,1494,8,62,88,5,93.4,3,ChubNi00,191.4
@@ -25,7 +24,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 23,Lamar Jackson*+,BAL,22,QB,15,15,176,1206,7,71,47,6.9,80.4,9,JackLa00,144.6
 24,Ronald Jones II,TAM,22,RB,16,9,172,724,6,34,49,4.2,45.3,3,JoneRo01,102.4
 25,Alvin Kamara*,NOR,24,RB,14,9,171,797,5,32,40,4.7,56.9,4,KamaAl00,101.7
-26,Kenyan Drake,2TM,25,,14,10,170,817,8,48,80,4.8,58.4,2,DrakKe00,125.7
+26,Kenyan Drake,2TM,25,rb,14,10,170,817,8,48,80,4.8,58.4,2,DrakKe00,125.7
 27,Frank Gore,BUF,36,rb,16,8,166,599,2,30,41,3.6,37.4,0,GoreFr00,71.9
 28,Melvin Gordon,LAC,26,RB,12,11,162,612,8,39,24,3.8,51,4,GordMe00,101.2
 29,Peyton Barber,TAM,25,rb,16,7,154,470,6,23,17,3.1,29.4,1,BarbPe01,81
@@ -128,7 +127,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 126,Dwayne Haskins,WAS,22,qb,9,7,20,101,0,7,23,5.1,11.2,6,HaskDw00,-1.9
 127,Matthew Stafford,DET,31,QB,8,8,20,66,0,5,12,3.3,8.3,5,StafMa00,-3.4
 128,Curtis Samuel,CAR,23,WR,16,15,19,130,1,7,16,6.8,8.1,0,SamuCu00,19
-129,Tra Carson,2TM,27,,3,1,18,48,0,3,12,2.7,16,0,CarsTr01,4.8
+129,Tra Carson,2TM,27,rb,3,1,18,48,0,3,12,2.7,16,0,CarsTr01,4.8
 130,Travis Homer,SEA,21,rb,16,1,18,114,0,6,29,6.3,7.1,0,HomeTr00,11.4
 131,Drew Lock,DEN,23,qb,5,5,18,72,0,5,12,4,14.4,3,LockDr00,1.2
 132,Cordarrelle Patterson*+,CHI,28,wr,16,4,17,103,0,4,46,6.1,6.4,0,PattCo00,10.3
@@ -141,7 +140,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 139,Brandon Bolden,NWE,29,rb,15,2,15,68,3,5,21,4.5,4.5,0,BoldBr00,24.8
 140,Elijhaa Penny,NYG,26,rb,16,1,15,39,0,2,6,2.6,2.4,0,PennEl00,3.9
 141,Deebo Samuel,SFO,23,WR,15,11,14,159,3,5,31,11.4,10.6,2,SamuDe00,29.9
-142,Mike Davis,2TM,26,,12,1,13,27,0,0,8,2.1,2.3,0,DaviMi01,2.7
+142,Mike Davis,2TM,26,rb,12,1,13,27,0,0,8,2.1,2.3,0,DaviMi01,2.7
 143,Dontrell Hilliard,CLE,24,rb,14,0,13,49,2,3,11,3.8,3.5,2,HillDo00,12.9
 144,Joe Flacco,DEN,34,QB,8,8,12,20,0,4,9,1.7,2.5,8,FlacJo00,-14
 145,Marshawn Lynch,SEA,33,rb,1,0,12,34,1,2,15,2.8,34,0,LyncMa00,9.4
@@ -192,7 +191,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 190,A.J. McCarron,HOU,29,qb,2,1,5,39,1,3,18,7.8,19.5,0,McCaA.00,9.9
 191,Matt Moore,KAN,35,qb,6,2,5,-1,0,0,3,-0.2,-0.2,2,MoorMa01,-4.1
 192,Cam Newton,CAR,30,qb,2,2,5,-2,0,0,3,-0.4,-1,2,NewtCa00,-4.2
-193,Samaje Perine,2TM,24,,7,0,5,16,0,1,9,3.2,2.3,0,PeriSa00,1.6
+193,Samaje Perine,2TM,24,rb,7,0,5,16,0,1,9,3.2,2.3,0,PeriSa00,1.6
 194,Josh Reynolds,LAR,24,wr,16,2,5,23,0,2,12,4.6,1.4,0,ReynJo00,2.3
 195,Keith Smith,ATL,27,fb,16,5,5,8,0,4,3,1.6,0.5,0,SmitKe03,0.8
 196,Dede Westbrook,JAX,26,WR,15,11,5,27,0,0,8,5.4,1.8,1,WestDe00,0.7
@@ -201,7 +200,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 199,Kenjon Barner,ATL,30,rb,14,0,4,28,0,1,12,7,2,4,BarnKe00,-5.2
 200,Tyler Boyd,CIN,25,WR,16,15,4,23,0,1,10,5.8,1.4,2,BoydTy00,-1.7
 201,Parris Campbell,IND,22,wr,7,3,4,34,0,1,22,8.5,4.9,3,CampPa00,-2.6
-202,Trevor Davis,3TM,26,,14,4,4,73,1,2,60,18.3,5.2,3,DaviTr03,7.3
+202,Trevor Davis,3TM,26,wr,14,4,4,73,1,2,60,18.3,5.2,3,DaviTr03,7.3
 203,Nick Foles,JAX,30,qb,4,4,4,23,0,2,13,5.8,5.8,2,FoleNi00,-1.7
 204,Russell Gage,ATL,23,wr,16,4,4,12,0,0,6,3,0.8,1,GageRu00,-0.8
 205,Jakeem Grant,MIA,27,wr,10,2,4,5,1,1,7,1.3,0.5,2,GranJa00,2.5
@@ -239,12 +238,12 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 237,Senorise Perry,BUF,28,rb,11,0,3,3,0,0,6,1,0.3,0,PerrSe00,0.3
 238,Josh Rosen,MIA,22,qb,6,3,3,13,0,0,6,4.3,2.2,1,RoseJo01,-0.7
 239,John Ross,CIN,24,WR,8,8,3,4,0,0,5,1.3,0.5,1,RossJo00,-1.6
-240,Mohamed Sanu,2TM,30,,15,12,3,11,0,1,8,3.7,0.7,0,SanuMo00,1.1
+240,Mohamed Sanu,2TM,30,wr,15,12,3,11,0,1,8,3.7,0.7,0,SanuMo00,1.1
 241,Matt Schaub,ATL,38,qb,6,1,3,-3,0,0,-1,-1,-0.5,1,SchaMa00,-2.3
 242,Vyncint Smith,NYJ,23,wr,13,4,3,52,1,3,20,17.3,4,1,SmitVy00,9.2
 243,Diontae Spencer,DEN,27,wr,16,2,3,6,0,0,9,2,0.4,3,SpenDi00,-5.4
 244,Courtland Sutton*,DEN,24,WR,16,14,3,17,0,1,9,5.7,1.1,2,SuttCo00,-2.3
-245,Zach Zenner,3TM,28,,5,0,3,-2,0,0,1,-0.7,-0.4,0,ZennZa00,-0.2
+245,Zach Zenner,3TM,28,rb,5,0,3,-2,0,0,1,-0.7,-0.4,0,ZennZa00,-0.2
 246,Nelson Agholor,PHI,26,WR,11,10,2,7,0,1,16,3.5,0.6,2,AghoNe00,-3.3
 247,Matt Barkley,BUF,29,qb,2,0,2,-4,0,0,0,-2,-2,3,BarkMa00,-6.4
 248,Jordan Berry,PIT,28,p,16,0,2,-8,0,0,0,-4,-0.5,3,BerrJo00,-6.8
@@ -272,7 +271,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 270,Calvin Ridley,ATL,25,WR,13,10,2,34,0,2,19,17,2.6,0,RidlCa00,3.4
 271,Willie Snead,BAL,27,WR,16,11,2,2,0,0,2,1,0.1,0,SneaWi00,0.2
 272,Jarrett Stidham,NWE,23,qb,3,0,2,-2,0,0,-1,-1,-0.7,0,StidJa00,-0.2
-273,De'Anthony Thomas,2TM,26,,14,0,2,5,0,1,4,2.5,0.4,3,ThomDe05,-5.5
+273,De'Anthony Thomas,2TM,26,wr,14,0,2,5,0,1,4,2.5,0.4,3,ThomDe05,-5.5
 274,Marquez Valdes-Scantling,GNB,25,WR,16,10,2,9,0,0,9,4.5,0.6,0,ValdMa00,0.9
 275,Darren Waller,OAK,27,TE,16,16,2,5,0,0,7,2.5,0.3,1,WallDa01,-1.5
 276,Sammy Watkins,KAN,26,WR,14,13,2,12,0,1,11,6,0.9,2,WatkSa00,-2.8
@@ -285,17 +284,17 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 283,Derek Carrier,OAK,29,te,16,4,1,27,0,1,27,27,1.7,0,CarrDe00,2.7
 284,Keelan Cole,JAX,26,wr,16,1,1,6,0,0,6,6,0.4,0,ColeKe00,0.6
 285,Amari Cooper*,DAL,25,WR,16,16,1,6,0,0,6,6,0.4,0,CoopAm00,0.6
-286,Pharoh Cooper,2TM,24,,13,1,1,2,0,0,2,2,0.2,0,CoopPh00,0.2
+286,Pharoh Cooper,2TM,24,wr,13,1,1,2,0,0,2,2,0.2,0,CoopPh00,0.2
 287,Jamison Crowder,NYJ,26,WR,16,12,1,4,0,0,4,4,0.3,0,CrowJa00,0.4
 288,Will Dissly,SEA,23,TE,6,6,1,7,0,0,7,7,1.2,1,DissWi00,-1.3
-289,Tyler Ervin,2TM,26,,10,0,1,10,0,1,10,10,1,2,ErviTy00,-3
+289,Tyler Ervin,2TM,26,rb,10,0,1,10,0,1,10,10,1,2,ErviTy00,-3
 290,Gerald Everett,LAR,25,te,13,2,1,0,0,0,0,0,0,0,EverGe00,0
 291,Isaiah Ford,MIA,23,wr,8,0,1,11,0,1,11,11,1.4,0,FordIs00,1.1
 292,Bennie Fowler,NYG,28,wr,8,2,1,20,0,1,20,20,2.5,0,FowlBe00,2
 293,John Franklin,TAM,25,db,1,0,1,11,0,1,11,11,11,0,FranJo04,1.1
 294,Chris Godwin*,TAM,23,WR,14,14,1,8,0,0,8,8,0.6,0,GodwCh00,0.8
 295,Marquise Goodwin,SFO,29,wr,9,6,1,15,0,1,15,15,1.7,0,GoodMa00,1.5
-296,Josh Gordon,2TM,28,,11,7,1,1,0,0,1,1,0.1,0,GordJo02,0.1
+296,Josh Gordon,2TM,28,wr,11,7,1,1,0,0,1,1,0.1,0,GordJo02,0.1
 297,Matt Haack,MIA,25,p,16,0,1,2,0,1,2,2,0.1,0,HaacMa00,0.2
 298,Marvin Hall,DET,26,wr,9,0,1,7,0,0,7,7,0.8,0,HallMa02,0.7
 299,Erik Harris,OAK,29,FS/ss,16,14,1,4,0,1,4,4,0.3,0,HarrEr00,0.4
@@ -304,9 +303,9 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 302,Andy Janovich,DEN,26,rb,7,3,1,1,1,1,1,1,0.1,0,JanoAn00,6.1
 303,Alshon Jeffery,PHI,29,WR,10,10,1,2,1,1,2,2,0.2,0,JeffAl00,6.2
 304,KeeSean Johnson,ARI,23,wr,10,4,1,3,0,0,3,3,0.3,1,JohnKe07,-1.7
-305,Olabisi Johnson,MIN,22,,16,6,1,6,0,0,6,6,0.4,0,JohnOl00,0.6
+305,Olabisi Johnson,MIN,22,wr,16,6,1,6,0,0,6,6,0.4,0,JohnOl00,0.6
 306,Colin Jones,CAR,32,db,16,0,1,5,0,1,5,5,0.3,0,JoneCo01,0.5
-307,Zay Jones,2TM,24,,15,9,1,3,0,0,3,3,0.2,0,JoneZa00,0.3
+307,Zay Jones,2TM,24,wr,15,9,1,3,0,0,3,3,0.2,0,JoneZa00,0.3
 308,Travis Kelce*,KAN,30,TE,16,16,1,4,1,1,4,4,0.3,1,KelcTr00,4.4
 309,Brett Kern*+,TEN,33,p,16,0,1,0,0,0,0,0,0,0,KernBr20,0
 310,Dawson Knox,BUF,23,TE,15,11,1,9,0,1,9,9,0.6,0,KnoxDa00,0.9
@@ -318,7 +317,7 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 316,Anthony Miller,CHI,25,WR,16,7,1,-1,0,0,-1,-1,-0.1,1,MillAn02,-2.1
 317,Chris Moore,BAL,26,wr,14,1,1,0,0,0,0,0,0,0,MoorCh00,0
 318,Alfred Morris,ARI,31,rb,1,0,1,4,0,1,4,4,4,0,MorrAl00,0.4
-319,Quenton Nelson*+,IND,23,LG,16,16,1,0,0,0,0,0,0,0,NelsQu00,0
+319,Quenton Nelson*+,IND,23,ga,16,16,1,0,0,0,0,0,0,0,NelsQu00,0
 320,Kalif Raymond,TEN,25,wr,8,1,1,-5,0,0,-5,-5,-0.6,1,RaymKa00,-2.5
 321,Paul Richardson,WAS,27,WR,10,6,1,0,0,0,0,0,0,0,RichPa01,0
 322,Andre Roberts*,BUF,31,wr,13,0,1,7,0,0,7,7,0.5,1,RobeAn00,-1.3
@@ -331,6 +330,6 @@ Rk,Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb,-9999,points
 329,Michael Thomas*+,NOR,26,WR,16,15,1,-9,0,0,-9,-9,-0.6,1,ThomMi05,-2.9
 330,Danny Vitale,GNB,26,rb,15,4,1,3,0,0,3,3,0.2,0,VitaDa00,0.3
 331,Greg Ward,PHI,24,wr,7,3,1,5,0,0,5,5,0.7,0,WardGr02,0.5
-332,Trevon Wesco,NYJ,24,,16,1,1,2,0,1,2,2,0.1,0,WescTr00,0.2
+332,Trevon Wesco,NYJ,24,te,16,1,1,2,0,1,2,2,0.1,0,WescTr00,0.2
 333,Mike Williams,LAC,25,WR,15,15,1,2,0,0,2,2,0.1,0,WillMi07,0.2
 334,Jarius Wright,CAR,30,WR,16,9,1,-7,0,0,-7,-7,-0.4,0,WrigJa02,-0.7
