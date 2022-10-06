@@ -1,60 +1,58 @@
 CREATE TABLE Rushing2019 (
-    Rk int,	
+      RK int,
 	Player varchar(70),	
-	Tm varchar(3),	
+		
 	Age int,	
 	Pos varchar(10),	
 	G int,
 	GS int,	
-	Att int,
+	
 	Yds int,	
 	TD int,
 	D int,
 	Lng int,
-	YA float,
-	YG float,
+	
 	Fmb int,	
 	Player_additional varchar(70),
 	points float
 );
 
 CREATE TABLE Rushing2020 (
-    Rk int,	
+    RK int,
 	Player varchar(70),	
-	Tm varchar(3),	
+		
 	Age int,	
 	Pos varchar(10),	
 	G int,
 	GS int,	
-	Att int,
+	
 	Yds int,	
 	TD int,
 	D int,
 	Lng int,
-	YA float,
-	YG float,
+	
 	Fmb int,	
 	Player_additional varchar(70),
 	points float
 );
 
 CREATE TABLE Receiving2019 (
-	Rk int,
+	RK int,
 	Player varchar(40),
-	Tm varchar(3),
+	
 	Age int,
 	Pos varchar(10),
-	ga int,
+	G int,
 	GS int,
-	Tgt int,
-	Rec int,
+	
+
 	Ctch varchar(10),
 	Yds int,
 	YR float,
 	TD int,
 	D float,
 	Lng int,
-	YTgt float,
+	
 	RG float,
 	YG float,
 	Fmb int,
@@ -63,22 +61,22 @@ CREATE TABLE Receiving2019 (
 	);
 	
 CREATE TABLE Receiving2020 (
-	Rk int,
+	RK int,
 	Player varchar(40),
-	Tm varchar(3),
+	
 	Age int,
 	Pos varchar(10),
-	ga int,
+	G int,
 	GS int,
-	Tgt int,
-	Rec int,
+	
+
 	Ctch varchar(10),
 	Yds int,
 	YR float,
 	TD int,
 	D float,
 	Lng int,
-	YTgt float,
+	
 	RG float,
 	YG float,
 	Fmb int,
@@ -87,16 +85,16 @@ CREATE TABLE Receiving2020 (
 	);
 	
 CREATE TABLE Passing2019 (
-	Rk int,
+	RK int,
 	Player varchar(40),
-	Tm varchar(3),
+	
 	Age int,
 	Pos varchar(10),
 	G int,
 	GS int,
-	QBrec varchar(15),
+	
 	Cmp int,
-	Att int,
+	
 	Cmp2 float,
 	Yds int,
 	TD int,
@@ -111,9 +109,9 @@ CREATE TABLE Passing2019 (
 	YG float,
 	Rate float,
 	QBR float,
-	Sk int,
+	
 	Yds2 int,
-	Sk2 float,
+	
 	NYA float,
 	ANYA float,
 	QC int,
@@ -125,14 +123,14 @@ CREATE TABLE Passing2019 (
 CREATE TABLE Passing2020 (
 	Rk int,
 	Player varchar(40),
-	Tm varchar(3),
+	
 	Age int,
 	Pos varchar(10),
 	G int,
 	GS int,
-	QBrec varchar(15),
+	
 	Cmp int,
-	Att int,
+	
 	Cmp2 float,
 	Yds int,
 	TD int,
@@ -147,9 +145,9 @@ CREATE TABLE Passing2020 (
 	YG float,
 	Rate float,
 	QBR float,
-	Sk int,
+	
 	Yds2 int,
-	Sk2 float,
+	
 	NYA float,
 	ANYA float,
 	QC int,
