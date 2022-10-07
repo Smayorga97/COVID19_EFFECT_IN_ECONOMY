@@ -52,7 +52,7 @@ The data is labelled with category names, so we will be using a supervised machi
 
 
 ## Dashboard
-[Dashboard NFL Analysis](c.tableau.com/app/profile/santiago.mayorga/viz/NFLanalysis/NFLanalysis?publish=yes)
+[Dashboard NFL Analysis](https://public.tableau.com/app/profile/santiago.mayorga/viz/NFLanalysis/NFLanalysis))
 
 # Technologies Used
 ## Data Cleaning and Analysis
