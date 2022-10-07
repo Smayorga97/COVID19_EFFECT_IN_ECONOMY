@@ -1,6 +1,6 @@
-,Player,Age,Pos,G,GS,Yds,TD,1D,Lng,Fmb,-9999,points
+,Player,Age,Pos,G,GS,Yds,TD,D,Lng,Fmb,Player_additional,points
 0,Jonathan Taylor*+,22,RB,17,17,1811,18,107,83,4,TaylJo02,281.1
-1,Najee Harris*,23,RB,17,17,1200,7,62,37,0,HarrNa00,162.0
+1,Najee Harris*,23,RB,17,17,1200,7,62,37,0,HarrNa00,162
 2,Joe Mixon*,25,RB,16,16,1205,13,60,32,2,MixoJo00,194.5
 3,Antonio Gibson,23,RB,16,14,1037,7,65,27,6,GibsAn00,133.7
 4,Dalvin Cook*,26,RB,13,13,1159,6,57,66,3,CookDa01,145.9
@@ -17,7 +17,7 @@
 15,Javonte Williams,21,rb,17,1,903,4,52,49,2,WillJa10,110.3
 16,James Conner*,26,rb,15,6,752,15,53,35,2,ConnJa00,161.2
 17,Damien Harris,24,RB,15,15,929,15,55,64,2,HarrDa06,178.9
-18,Devin Singletary,24,RB,17,16,870,7,44,46,5,SingDe00,119.0
+18,Devin Singletary,24,RB,17,16,870,7,44,46,5,SingDe00,119
 19,AJ Dillon,23,rb,17,2,803,5,50,36,2,DillAJ00,106.3
 20,Leonard Fournette,26,RB,14,13,812,8,45,47,1,FourLe00,127.2
 21,Myles Gaskin,24,RB,17,10,612,3,25,30,2,GaskMy00,75.2
@@ -62,9 +62,9 @@
 60,Jeff Wilson,26,rb,9,4,294,2,19,17,1,WilsJe01,39.4
 61,Kareem Hunt,26,rb,8,1,386,5,22,33,0,HuntKa00,68.6
 62,Trevor Lawrence,22,QB,17,17,334,2,22,26,9,LawrTr00,27.4
-63,Justin Fields,22,QB,12,10,420,2,22,23,12,FielJu00,30.0
+63,Justin Fields,22,QB,12,10,420,2,22,23,12,FielJu00,30
 64,Carlos Hyde,31,rb,12,2,253,1,14,18,2,HydeCa00,27.3
-65,Duke Johnson,28,rb,5,4,330,3,18,27,0,JohnDu00,51.0
+65,Duke Johnson,28,rb,5,4,330,3,18,27,0,JohnDu00,51
 66,Taysom Hill,31,qb,12,9,374,5,26,44,2,HillTa00,63.4
 67,Kenneth Gainwell,22,rb,16,1,291,5,19,18,2,GainKe00,55.1
 68,Justin Jackson,25,rb,14,2,364,2,18,75,1,JackJu01,46.4
@@ -79,12 +79,12 @@
 77,Deebo Samuel*+,25,WR,16,15,365,8,21,49,4,SamuDe00,76.5
 78,Carson Wentz,29,QB,17,17,215,1,21,18,8,WentCa00,11.5
 79,Royce Freeman,25,0,15,0,169,0,8,13,0,FreeRo00,16.9
-80,Dontrell Hilliard,26,rb,8,5,350,2,15,68,2,HillDo00,43.0
+80,Dontrell Hilliard,26,rb,8,5,350,2,15,68,2,HillDo00,43
 81,Nyheim Hines,25,rb,17,4,276,2,15,34,3,HineNy00,33.6
 82,Peyton Barber,27,rb,10,1,212,2,12,27,2,BarbPe01,29.2
 83,Samaje Perine,26,rb,16,0,246,1,11,46,0,PeriSa00,30.6
-84,Craig Reynolds,25,rb,5,2,230,0,11,35,0,ReynCr00,23.0
-85,Ryan Tannehill,33,QB,17,17,270,7,33,28,10,TannRy00,49.0
+84,Craig Reynolds,25,rb,5,2,230,0,11,35,0,ReynCr00,23
+85,Ryan Tannehill,33,QB,17,17,270,7,33,28,10,TannRy00,49
 86,Salvon Ahmed,23,rb,12,0,149,0,8,16,0,AhmeSa01,14.9
 87,Chris Carson,27,rb,4,4,232,3,11,33,1,CarsCh00,39.2
 88,Tony Jones,24,rb,11,4,142,0,7,11,0,JoneTo04,14.2
@@ -94,7 +94,7 @@
 92,J.D. McKissic,28,wr,11,3,212,2,14,15,0,McKiJ.00,33.2
 93,Dak Prescott,28,QB,16,16,146,1,7,21,14,PresDa01,-7.4
 94,Tyler Huntley,23,qb,7,4,294,2,22,21,4,HuntTy01,33.4
-95,Cam Newton,32,qb,8,5,230,5,20,33,4,NewtCa00,45.0
+95,Cam Newton,32,qb,8,5,230,5,20,33,4,NewtCa00,45
 96,Brandon Bolden,31,rb,17,1,226,1,12,24,1,BoldBr00,26.6
 97,Mac Jones*,23,QB,17,17,129,0,22,13,7,JoneMa05,-1.1
 98,Dare Ogunbowale,27,rb,17,2,137,1,5,12,0,OgunDa00,19.7
@@ -113,11 +113,11 @@
 111,Baker Mayfield,26,QB,14,14,134,1,12,14,6,MayfBa00,7.4
 112,Larry Rountree,22,RB,12,0,87,1,5,13,0,RounLa00,14.7
 113,Benny Snell Jr.,23,rb,17,0,98,0,3,9,0,SnelBe00,9.8
-114,Ke'Shawn Vaughn,24,rb,12,1,180,2,9,55,0,VaugKe00,30.0
+114,Ke'Shawn Vaughn,24,rb,12,1,180,2,9,55,0,VaugKe00,30
 115,Ty'Son Williams,25,rb,13,3,185,1,7,35,1,WillTy01,22.5
 116,Eno Benjamin,22,rb,9,0,118,1,4,21,0,BenjEn00,17.8
 117,Malcolm Brown,28,rb,7,3,125,1,6,24,0,BrowMa03,18.5
-118,Corey Clement,27,rb,17,0,140,0,7,38,0,ClemCo00,14.0
+118,Corey Clement,27,rb,17,0,140,0,7,38,0,ClemCo00,14
 119,DeeJay Dallas,23,rb,17,0,138,2,10,15,1,DallDe00,23.8
 120,Joshua Kelley,24,rb,10,0,102,0,5,14,1,KellJo01,8.2
 121,Aaron Rodgers*+,38,QB,16,16,101,3,10,18,3,RodgAa00,22.1
@@ -137,7 +137,7 @@
 135,Travis Homer,23,rb,14,0,177,1,7,73,0,HomeTr00,23.7
 136,Qadree Ollison,25,rb,8,0,105,1,7,19,1,OlliQa00,14.5
 137,Ben Roethlisberger,39,QB,16,16,5,1,3,8,11,RoetBe00,-15.5
-138,Jacoby Brissett,29,qb,11,5,70,1,9,19,6,BrisJa00,1.0
+138,Jacoby Brissett,29,qb,11,5,70,1,9,19,6,BrisJa00,1
 139,J.J. Taylor,23,rb,5,0,37,2,3,15,1,TaylJJ01,13.7
 140,Tyrod Taylor,32,qb,6,6,151,3,6,30,3,TaylTy00,27.1
 141,Godwin Igwebuike,27,db,17,1,118,1,7,42,2,IgweGo00,13.8
@@ -148,7 +148,7 @@
 146,Jonathan Williams,27,rb,5,0,79,1,7,23,0,WillJo07,13.9
 147,Andy Dalton,34,qb,8,6,76,0,2,14,1,DaltAn00,5.6
 148,Jamycal Hasty,25,rb,11,0,68,1,6,21,2,HastJa02,8.8
-149,Ryquell Armstead,25,rb,2,0,80,0,3,26,0,ArmsRy00,8.0
+149,Ryquell Armstead,25,rb,2,0,80,0,3,26,0,ArmsRy00,8
 150,Jermar Jefferson,21,rb,7,0,74,2,4,28,0,JeffJe00,19.4
 151,Ty Montgomery,28,wr,14,3,44,0,2,9,0,MontTy01,4.4
 152,Trayveon Williams,24,rb,5,0,51,0,4,10,0,WillTr06,5.1
@@ -176,27 +176,27 @@
 174,CeeDee Lamb*,22,WR,16,13,76,0,4,33,0,LambCe00,7.6
 175,Isaiah McKenzie,26,wr,15,2,47,1,4,10,2,McKeIs00,6.7
 176,Gardner Minshew II,25,qb,4,2,21,0,2,9,1,MinsGa00,0.1
-177,Jalen Richard,28,rb,10,0,40,0,3,23,0,RichJa01,4.0
+177,Jalen Richard,28,rb,10,0,40,0,3,23,0,RichJa01,4
 178,Cooper Rush,28,qb,5,1,-8,0,0,2,1,RushCo00,-2.8
-179,Trevor Siemian,30,qb,6,4,20,1,2,17,3,SiemTr00,2.0
+179,Trevor Siemian,30,qb,6,4,20,1,2,17,3,SiemTr00,2
 180,Geno Smith,31,qb,4,3,42,1,3,12,1,SmitGe00,8.2
-181,Jonnu Smith,26,TE,16,11,40,0,2,9,1,SmitJo01,2.0
+181,Jonnu Smith,26,TE,16,11,40,0,2,9,1,SmitJo01,2
 182,Keith Smith,29,FB,17,8,31,0,3,8,0,SmitKe03,3.1
 183,Jonathan Ward,24,rb,13,0,33,0,3,7,0,WardJo00,3.3
 184,Giovani Bernard,30,rb,12,0,58,0,3,24,1,BernGi00,3.8
 185,Michael Burton,29,rb,16,0,26,1,8,7,0,BurtMi00,8.6
 186,Jake Fromm,23,qb,3,2,65,0,4,27,2,FromJa00,2.5
 187,Mecole Hardman,23,WR,17,8,46,0,2,24,3,HardMe00,-1.4
-188,Chad Henne,36,qb,4,0,0,0,0,4,2,HennCh01,-4.0
+188,Chad Henne,36,qb,4,0,0,0,0,4,2,HennCh01,-4
 189,Kyle Juszczyk*,30,FB,17,16,22,1,3,6,0,JuszKy00,8.2
 190,D.J. Moore,24,WR,17,17,48,0,4,14,1,MoorD.00,2.8
 191,La'Mical Perine,23,rb,4,0,31,0,1,14,0,PeriLa00,3.1
 192,Robert Woods,29,WR,9,9,46,1,1,16,0,WoodRo02,10.6
 193,Jamal Agnew,26,db,10,2,111,1,3,66,1,AgneJa00,15.1
 194,Brandon Allen,29,qb,6,1,-1,0,1,3,1,AlleBr00,-2.1
-195,Braxton Berrios+,26,wr,16,1,40,2,3,11,1,BerrBr00,14.0
+195,Braxton Berrios+,26,wr,16,1,40,2,3,11,1,BerrBr00,14
 196,Ja'Marr Chase*,21,WR,17,17,21,0,2,10,2,ChasJa00,-1.9
-197,Devin Duvernay*+,24,wr,16,7,50,0,4,19,1,DuveDe00,3.0
+197,Devin Duvernay*+,24,wr,16,7,50,0,4,19,1,DuveDe00,3
 198,Demetric Felton,23,wr,16,2,24,0,0,12,4,FeltDe00,-5.6
 199,Mike Glennon,32,qb,6,4,33,1,2,13,6,GlenMi00,-2.7
 200,Jalen Guyton,24,wr,16,2,34,0,2,21,1,GuytJa01,1.4
@@ -204,7 +204,7 @@
 202,Amon-Ra St. Brown,22,WR,17,9,61,1,2,26,0,StxxAm00,12.1
 203,P.J. Walker,26,qb,5,1,13,0,2,13,3,WalkPh00,-4.7
 204,Justin Jefferson*,22,WR,17,17,14,0,1,11,1,JeffJu00,-0.6
-205,Jarvis Landry,29,WR,12,12,40,2,4,16,3,LandJa00,10.0
+205,Jarvis Landry,29,WR,12,12,40,2,4,16,3,LandJa00,10
 206,Darnell Mooney,24,WR,17,14,32,1,2,15,0,MoonDa00,9.2
 207,Scottie Phillips,24,rb,3,0,13,0,1,4,0,PhilSc01,1.3
 208,Anthony Schwartz,21,wr,14,2,39,0,4,17,0,SchwAn00,3.9
@@ -224,8 +224,8 @@
 222,Wendell Smallwood,27,rb,3,0,25,0,2,13,0,SmalWe00,2.5
 223,Freddie Swain,23,wr,17,8,32,0,2,11,1,SwaiFr00,1.2
 224,Mike White,26,qb,4,3,-1,0,2,2,0,WhitMi01,-0.1
-225,Kenjon Barner,32,rb,3,0,0,0,0,1,0,BarnKe00,0.0
-226,Blake Bell,30,te,16,5,10,0,4,3,0,BellBl00,1.0
+225,Kenjon Barner,32,rb,3,0,0,0,0,1,0,BarnKe00,0
+226,Blake Bell,30,te,16,5,10,0,4,3,0,BellBl00,1
 227,Mike Boone,26,rb,8,0,35,0,2,16,0,BoonMi00,3.5
 228,D'Wayne Eskridge,24,wr,10,0,59,0,2,30,0,EskrDW00,5.9
 229,Nick Foles,32,qb,1,1,8,0,1,8,1,FoleNi00,-1.2
@@ -246,10 +246,10 @@
 244,Damarea Crockett,24,rb,12,0,7,0,0,6,0,CrocDa01,0.7
 245,Ashton Dulin,24,wr,17,1,32,0,1,37,0,DuliAs00,3.2
 246,Sam Ehlinger,23,qb,3,0,9,0,1,9,0,EhliSa00,0.9
-247,Gerald Everett,27,TE,15,12,20,0,2,13,2,EverGe00,-2.0
+247,Gerald Everett,27,TE,15,12,20,0,2,13,2,EverGe00,-2
 248,Feleipe Franks,24,qb,9,0,6,0,0,4,0,FranFe00,0.6
 249,Reggie Gilliam,24,fb,16,5,3,0,0,2,0,GillRe00,0.3
-250,George Kittle*,28,TE,14,14,20,0,0,9,2,KittGe00,-2.0
+250,George Kittle*,28,TE,14,14,20,0,0,9,2,KittGe00,-2
 251,Allen Lazard,26,WR,15,13,32,0,2,14,0,LazaAl00,3.2
 252,Anthony McFarland Jr.,22,rb,2,0,3,0,0,3,0,McFaAn00,0.3
 253,Gabe Nabers,24,fb,10,1,8,0,1,4,0,NabeGa00,0.8
@@ -269,7 +269,7 @@
 267,Kurt Benkert,26,qb,1,0,-1,0,0,0,0,BenkKu01,-0.1
 268,Tyler Boyd,27,wr,16,10,22,0,1,14,1,BoydTy00,0.2
 269,Tim Boyle,27,qb,5,3,13,0,1,14,1,BoylTi00,-0.7
-270,A.J. Brown,24,WR,13,13,10,0,1,7,0,BrowAJ00,1.0
+270,A.J. Brown,24,WR,13,13,10,0,1,7,0,BrowAJ00,1
 271,Brandin Cooks,28,WR,16,16,21,0,1,16,0,CookBr00,2.1
 272,Chase Daniel,35,qb,1,0,-2,0,0,-1,0,DaniCh00,-0.2
 273,Darrynton Evans,23,rb,1,0,7,0,0,5,0,EvanDa02,0.7
@@ -277,8 +277,8 @@
 275,Jake Funk,23,rb,10,0,5,0,0,6,0,FunkJa00,0.5
 276,Marquise Goodwin,31,wr,14,2,-1,0,0,1,1,GoodMa00,-2.1
 277,Alec Ingold,25,fb,9,3,1,0,1,1,0,IngoAl01,0.1
-278,Andy Janovich,28,rb,13,3,0,1,1,1,0,JanoAn00,6.0
-279,Van Jefferson,25,WR,17,17,20,0,1,10,0,JeffVa00,2.0
+278,Andy Janovich,28,rb,13,3,0,1,1,1,0,JanoAn00,6
+279,Van Jefferson,25,WR,17,17,20,0,1,10,0,JeffVa00,2
 280,Jerry Jeudy,22,wr,10,5,3,0,0,3,1,JeudJe00,-1.7
 281,Marcus Johnson,27,wr,7,3,-2,0,1,5,0,JohnMa07,-0.2
 282,Zay Jones,26,WR,17,9,3,0,0,4,1,JoneZa00,-1.7
@@ -289,7 +289,7 @@
 287,Sean Mannion,29,qb,1,1,14,0,2,11,0,MannSe00,1.4
 288,Ray-Ray McCloud,25,wr,16,5,15,0,0,10,4,McClRa00,-6.5
 289,Scott Miller,24,wr,9,0,43,1,2,33,0,MillSc01,10.3
-290,Raheem Mostert,29,rb,1,1,20,0,1,11,0,MostRa00,2.0
+290,Raheem Mostert,29,rb,1,1,20,0,1,11,0,MostRa00,2
 291,Zach Pascal,27,WR,16,13,21,0,0,12,1,PascZa00,0.1
 292,Jacques Patrick,24,rb,2,0,12,0,1,8,0,PatrJa01,1.2
 293,Nathan Peterman,27,qb,1,0,2,0,1,1,0,PeteNa00,0.2
@@ -302,7 +302,7 @@
 300,Cedrick Wilson Jr.,26,wr,16,4,11,0,1,6,3,WilsCe01,-4.9
 301,John Wolford,26,qb,3,0,-1,0,0,0,0,WolfJo00,-0.1
 302,Jordan Akins,29,te,13,3,3,0,1,3,2,AkinJo00,-3.7
-303,Mark Andrews*+,26,TE,17,9,0,0,0,0,1,AndrMa00,-2.0
+303,Mark Andrews*+,26,TE,17,9,0,0,0,0,1,AndrMa00,-2
 304,Alex Bachman,25,wr,3,0,-3,0,0,-3,0,BachAl00,-0.3
 305,C.J. Beathard,28,qb,2,0,2,0,0,2,0,BeatC.00,0.2
 306,David Blough,26,qb,1,0,6,0,0,6,1,BlouDa00,-1.4
@@ -318,24 +318,24 @@
 316,Pharoh Cooper,26,wr,8,0,3,0,0,3,0,CoopPh00,0.3
 317,Nathan Cottrell,25,rb,4,0,3,0,0,3,0,CottNa00,0.3
 318,Jaelon Darden,22,wr,9,0,11,0,1,11,0,DardJa00,1.1
-319,Phillip Dorsett,28,0,6,0,0,0,0,0,0,DorsPh00,0.0
+319,Phillip Dorsett,28,0,6,0,0,0,0,0,0,DorsPh00,0
 320,Greg Dortch,23,wr,5,2,24,0,1,24,0,DortGr01,2.4
 321,Eric Ebron,28,te,8,3,1,1,1,1,0,EbroEr00,6.1
-322,Bryan Edwards,23,WR,16,12,0,0,0,0,1,EdwaBr01,-2.0
+322,Bryan Edwards,23,WR,16,12,0,0,0,0,1,EdwaBr01,-2
 323,Evan Engram,27,TE,15,12,-3,0,0,-3,1,EngrEv00,-2.3
 324,Zach Ertz,31,0,17,14,4,0,0,4,0,ErtzZa00,0.4
-325,Mike Evans*,28,WR,16,16,10,0,1,10,0,EvanMi00,1.0
-326,Clayton Fejedelem,28,db,17,0,0,0,0,0,1,FejeCl00,-2.0
+325,Mike Evans*,28,WR,16,16,10,0,1,10,0,EvanMi00,1
+326,Clayton Fejedelem,28,db,17,0,0,0,0,0,1,FejeCl00,-2
 327,Maurice Ffrench,23,wr,3,0,3,0,0,3,0,FfreMa00,0.3
 328,Ryan Fitzpatrick,39,qb,1,1,2,0,0,2,1,FitzRy00,-1.8
-329,Jamie Gillan,24,p,12,0,0,0,0,-8,1,GillJa00,-2.0
+329,Jamie Gillan,24,p,12,0,0,0,0,-8,1,GillJa00,-2
 330,Cyril Grayson,28,wr,5,3,14,0,1,14,0,GrayCy01,1.4
-331,Johnny Hekker,31,p,17,0,0,0,0,0,1,HekkJo00,-2.0
+331,Johnny Hekker,31,p,17,0,0,0,0,0,1,HekkJo00,-2
 332,DeSean Jackson,35,0,16,4,4,0,0,4,1,JackDe00,-1.6
 333,Christian Kirk,25,WR,17,11,11,0,1,11,0,KirkCh01,1.1
-334,Cole Kmet,22,TE,17,17,0,0,0,0,0,KmetCo00,0.0
+334,Cole Kmet,22,TE,17,17,0,0,0,0,0,KmetCo00,0
 335,Patrick Laird,26,rb,6,0,4,0,0,4,0,LairPa00,0.4
-336,Andy Lee,39,p,16,0,0,0,0,0,3,LeexAn20,-6.0
+336,Andy Lee,39,p,16,0,0,0,0,0,3,LeexAn20,-6
 337,Braden Mann,24,p,10,0,4,0,0,4,0,MannBr01,0.4
 338,Nate McCrary,22,rb,1,0,-1,0,0,-1,0,McCrNa00,-0.1
 339,Terry McLaurin,26,WR,17,17,12,0,1,12,0,McLaTe00,1.2
@@ -347,7 +347,7 @@
 345,Ryan Nall,26,rb,9,0,4,0,0,4,0,NallRy00,0.4
 346,David Njoku,25,TE,16,11,1,0,0,1,0,NjokDa00,0.1
 347,Gunner Olszewski,25,wr,16,0,9,0,0,9,3,OlszGu00,-5.1
-348,K.J. Osborn,24,wr,17,9,10,0,1,10,0,OsboKJ00,1.0
+348,K.J. Osborn,24,wr,17,9,10,0,1,10,0,OsboKJ00,1
 349,Devine Ozigbo,25,0,3,0,-3,0,0,0,0,OzigDe01,-0.3
 350,Michael Palardy,29,p,17,0,1,0,0,1,0,PalaMi00,0.1
 351,Josh Palmer,23,WR,17,5,6,0,0,6,0,PalmJo00,0.6
