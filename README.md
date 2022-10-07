@@ -52,7 +52,9 @@ The data is labelled with category names, so we will be using a supervised machi
 
 
 ## Dashboard
-[Dashboard blueprint](https://docs.google.com/presentation/d/1hHPixInHlg85vkC_xT5-EKF56Ns-UvXqnwNQXXxkIgo/edit#slide=id.g15f9f5d1d01_0_214)
+Segment-3--Sheela-Tookhy
+[Dashboard blueprint](https://docs.google.com/presentation/d/1BHYf_ReJqLKThwNDZsENIaeq-MyH2VNH/edit?usp=sharing&ouid=117105931195182392302&rtpof=true&sd=true)
+
 
 # Technologies Used
 ## Data Cleaning and Analysis
