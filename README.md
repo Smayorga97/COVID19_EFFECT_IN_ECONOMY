@@ -52,7 +52,6 @@ The data is labelled with category names, so we will be using a supervised machi
 
 
 ## Dashboard
-Segment-3--Sheela-Tookhy
 [Dashboard blueprint](https://docs.google.com/presentation/d/1BHYf_ReJqLKThwNDZsENIaeq-MyH2VNH/edit?usp=sharing&ouid=117105931195182392302&rtpof=true&sd=true)
 
 
