@@ -32,8 +32,7 @@ Fixes to column information that were manually updated:
 After these changes are implemented, the input data should be clean and ready to use. We will be joining the datasets using the 'Player-additional' column. The plan is for the cleaned datasets to be saved to a postgres SQL database hosted on AWS, and the Machine Learning Model will pull from the hosted database.
 
 ## Database
-SQL database using SQLAlchemy and Flask.  
-#### Mockup
+The csv tables were loaded into a PostgresDB. Using SQL, the tables of two consecutive years were joined together making a new table with the stats of the previous year and the point for the current year. The new table in the locally hosted PostgresDB could then be accessed by Machine Learning script.  
 
 
 ## Using Machine Learning
@@ -42,17 +41,16 @@ SQL database using SQLAlchemy and Flask.
 <!-- link will be updated after everything successfully merged the first time -->
 The data is labelled with category names, so we will be using a supervised machine learning model. Our expected result is the predicted value of next year's points given prior year stats (continuous number) so we will perform linear regression analysis. We can use different machine learning algorithms and compare them against each other, although getting one to work would be great. 
 
-#### Feature Selection
-
-
 #### Models
+We chose to use a linear regression model because we wanted to predict points which is continuous. The input data was pulled using SQL Alchemy from the locally hosted database. The linear model was run using pandas and sklearn 
 
+#### Feature Selection
+Additional feature selection was performed to improve the performance for the passing model. The criteria was improving the model score.
 
 ## Results
 
-
 ## Dashboard
- segment-3-smayorga
+
 [Dashboard NFL Analysis](https://public.tableau.com/app/profile/santiago.mayorga/viz/NFLanalysis/NFLanalysis)
 =======
 [Dashboard blueprint](https://docs.google.com/presentation/d/1BHYf_ReJqLKThwNDZsENIaeq-MyH2VNH/edit?usp=sharing&ouid=117105931195182392302&rtpof=true&sd=true)
