@@ -49,13 +49,14 @@ Additional feature selection was performed to improve the performance for the pa
 
 ## Results
 
-## Dashboard
+### Dashboard
 
 [Dashboard NFL Analysis](https://public.tableau.com/app/profile/santiago.mayorga/viz/NFLanalysis/NFLanalysis)
-=======
+
+### Presentation
 [Dashboard blueprint](https://docs.google.com/presentation/d/1BHYf_ReJqLKThwNDZsENIaeq-MyH2VNH/edit?usp=sharing&ouid=117105931195182392302&rtpof=true&sd=true)
 
- main
+ 
 
 # Technologies Used
 ## Data Cleaning and Analysis
@@ -74,7 +75,4 @@ SciKitLearn is the ML library we'll be using to create a classifier. We will per
 
 Related course material - Module 17 - Supervised Machine Learning
 
-## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on TO BE DETERMINED (AWS?).
-
-Related course material - Module 11, 12, 13 - Flask, jsonify
+Related course material - Module 11, 12, 13 
